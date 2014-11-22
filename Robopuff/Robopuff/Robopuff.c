@@ -3,6 +3,8 @@
  *
  * Created: 11/18/2014 12:32:28 PM
  *  Author: adriacat
+ * it's on github!
+ 
  */ 
 
 #include <avr/io.h>
